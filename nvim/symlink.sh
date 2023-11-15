@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ln -s $DOTFILES/nvim $HOME/.config/nvim
+ln -sn $DOTFILES/nvim $HOME/.config/nvim

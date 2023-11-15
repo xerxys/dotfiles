@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ln -s $DOTFILES/wofi $HOME/.config/wofi
+ln -sn $DOTFILES/wofi $HOME/.config/wofi

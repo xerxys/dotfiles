@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ln -s $DOTFILES/kitty $HOME/.config/kitty
+ln -sn $DOTFILES/kitty $HOME/.config/kitty

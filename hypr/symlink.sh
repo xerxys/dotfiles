@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ln -s $DOTFILES/hypr $HOME/.config/hypr
+ln -sn $DOTFILES/hypr $HOME/.config/hypr

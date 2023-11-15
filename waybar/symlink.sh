@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ln -s $DOTFILES/waybar $HOME/.config/waybar
+ln -sn $DOTFILES/waybar $HOME/.config/waybar
