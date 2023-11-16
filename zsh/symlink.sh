@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#SOURCE dorfdelete function
-source $DOTFILES/scripts/dorfdelete.sh
-
 # .zshrc
 dorfdelete $HOME/.zshrc
 ln -sn $DOTFILES/zsh/zsh.rc $HOME/.zshrc
