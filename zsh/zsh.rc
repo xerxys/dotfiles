@@ -1,8 +1,6 @@
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH=$HOME/bin:$HOME/dotfiles:$HOME/dotfiles/scripts:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
-
 source ~/.env.sh
-source $DOTFILES/zsh/sourcefunc.sh
+source $DOTFILES/scripts/sourcefunc.sh
+source $DOTFILES/scripts/dorfdelete.sh
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
