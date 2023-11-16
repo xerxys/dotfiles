@@ -13,4 +13,19 @@ My Arch Linux dotfiles and installation scripts
 git clone https://github.com/xerxys/dotfiles.git ~/dotfiles
 ```
 
-#### 2. 
+#### 2. Initiate the Symlinks
+
+```sh
+cd $HOME/dotfiles/scripts
+mastersym.sh
+```
+
+`mastersym.sh` scans every subdirectory of the dotfiles directory for their own `symlink.sh` and executes them.
+
+Each individual `symlink.sh` will delete any files or directories in the locations they need to create a symbolic link and then create one.
+
+## COMING SOON???
+
+#### 1. I hope to make an installation script for all the applications which have configs saved in this repository but whether that will happen or not remains to be seen.
+
+#### 2. [UNDER CONSTRUCTION] 
