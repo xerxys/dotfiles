@@ -2,6 +2,8 @@
 My Arch Linux dotfiles and installation scripts
 
 ## GETTING STARTED
+### WARNING
+#### MY Hyprland.conf IS SET UP FOR MY MONITORS. EARLY IN THE CONF FILE THERE'S A MONITOR SECTION. TO IDENTIFY YOUR MONITOR NAMES RUN `hyprctl monitors` AND TAILOR IT TOWARDS YOUR STUFF
 ### Prerequisites
 - [Zsh](https://www.zsh.org) should be installed (v4.3.9 or more recent is fine but we prefer 5.0.8 and newer). If not pre-installed (run `zsh --version` to confirm), check the following wiki instructions here: [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 - `git` should be installed
