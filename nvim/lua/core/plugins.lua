@@ -43,10 +43,7 @@ return require('packer').startup(function(use)
   }
   use 'nvim-lua/plenary.nvim'
   use'nvim-telescope/telescope.nvim'
-
-  -- My plugins here
-  -- use 'foo1/bar1.nvim'
-  -- use 'foo2/bar2.nvim'
+  use 'gpanders/nvim-parinfer.nvim'
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
