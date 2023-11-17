@@ -109,7 +109,7 @@
     time                    # current time
     # =========================[ Line #2 ]=========================
     newline
-    ip                      # ip address and bandwidth usage for a specified network interface
+    # ip                      # ip address and bandwidth usage for a specified network interface
     public_ip               # public IP address
     vpn_ip
     # proxy                 # system-wide http/https/ftp proxy
