@@ -35,4 +35,6 @@ Each individual `symlink.sh` will delete any files or directories in the locatio
 
 1. I hope to make an installation script for all the applications which have configs saved in this repository but whether that will happen or not remains to be seen.
 
-2. [UNDER CONSTRUCTION] 
+2. Switch from waybar to EWW cause I despise waybar
+
+3. [UNDER CONSTRUCTION] 
